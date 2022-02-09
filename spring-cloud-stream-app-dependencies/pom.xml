@@ -38,7 +38,7 @@
 		<snappy-java.version>1.1.2</snappy-java.version>
 		<jms-api.version>1.1-rev-1</jms-api.version>
 		<spring-integration-cassandra.version>0.5.0.RELEASE</spring-integration-cassandra.version>
-		<cassandra-all.version>2.1.5</cassandra-all.version>
+		<cassandra-all.version>3.0.24</cassandra-all.version>
 		<cassandra-unit-spring.version>2.1.9.2</cassandra-unit-spring.version>
 		<ftpserver-core.version>1.0.6</ftpserver-core.version>
 		<sshd-core.version>0.10.1</sshd-core.version>
