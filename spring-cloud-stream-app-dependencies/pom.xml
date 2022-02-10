@@ -25,7 +25,7 @@
 		<reactor.version>2.0.8.RELEASE</reactor.version>
 		<codahale.version>3.0.2</codahale.version>
 		<netty.version>4.0.27.Final</netty.version>
-		<postgresql.version>9.4-1201-jdbc41</postgresql.version>
+		<postgresql.version>42.2.25</postgresql.version>
 		<pmml.version>1.2.6</pmml.version>
 		<spring-cloud-deployer-spi.version>1.0.2.RELEASE</spring-cloud-deployer-spi.version>
 		<spring-cloud-deployer-local.version>1.0.2.RELEASE</spring-cloud-deployer-local.version>
