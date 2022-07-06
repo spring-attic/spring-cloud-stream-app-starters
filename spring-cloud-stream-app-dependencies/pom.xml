@@ -45,7 +45,7 @@
 		<commons-dbcp.version>1.4</commons-dbcp.version>
 		<spring-jdbc.version>4.2.5.RELEASE</spring-jdbc.version>
 		<jruby-complete.version>9.0.5.0</jruby-complete.version>
-		<jython-standalone.version>2.7.0</jython-standalone.version>
+		<jython-standalone.version>2.7.1</jython-standalone.version>
 		<spring-integration-aws.version>1.0.0.RELEASE</spring-integration-aws.version>
 		<spring-cloud-aws-dependencies.version>1.1.0.RELEASE</spring-cloud-aws-dependencies.version>
 	</properties>
