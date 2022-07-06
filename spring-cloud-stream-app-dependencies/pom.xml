@@ -24,7 +24,7 @@
 		<spring-integration-java-dsl.version>1.1.3.RELEASE</spring-integration-java-dsl.version>
 		<reactor.version>2.0.8.RELEASE</reactor.version>
 		<codahale.version>3.0.2</codahale.version>
-		<netty.version>4.0.27.Final</netty.version>
+		<netty.version>4.1.42.Final</netty.version>
 		<postgresql.version>9.4-1201-jdbc41</postgresql.version>
 		<pmml.version>1.2.6</pmml.version>
 		<spring-cloud-deployer-spi.version>1.0.2.RELEASE</spring-cloud-deployer-spi.version>
