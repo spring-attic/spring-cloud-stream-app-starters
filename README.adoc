@@ -1,3 +1,5 @@
+# spring-cloud-stream-app-starters is no longer actively maintained by VMware, Inc.
+
 == ANNOUNCEMENT: As of 1.1.0.RC1 / Avogadro.RC1 release, this project is now moved to link:https://github.com/spring-cloud-stream-app-starters[spring-cloud-stream-app-starters] organization and each of the Spring Cloud Stream App Starters is now maintained in a separate repo by itself.
 
 === This change gives us the flexibility to bug-fix, update, and release individual applications independently as opposed to a time-consuming release of all the applications at once. The link:https://docs.spring.io/spring-cloud-stream-app-starters/docs/[reference guide] for all the releases are still available from the same location, though.
