@@ -31,6 +31,7 @@
 		<module>app-starters-test-support</module>
 		<module>aws-integration-tests</module>
 		<module>aws-s3</module>
+		<module>azure-storage</module>
 		<module>cassandra</module>
 		<module>cloudfoundry</module>
 		<module>file</module>

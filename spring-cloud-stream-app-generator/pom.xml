@@ -52,6 +52,10 @@
 						<aggregate-counter-sink>
 							<extraTestConfigClass>org.springframework.cloud.stream.app.test.aggregate.counter.AggregateCounterSinkTestConfiguration.class</extraTestConfigClass>
 						</aggregate-counter-sink>
+						<azure-blob-sink>
+							<autoConfigClass>spring.cloud.starter.stream.sink.azure.blob.AzureBlobSinkConfiguration.class</autoConfigClass>
+							<testsIgnored>true</testsIgnored>
+						</azure-blob-sink>
 						<bridge-processor />
 						<cassandra-sink>
 							<testsIgnored>true</testsIgnored>
